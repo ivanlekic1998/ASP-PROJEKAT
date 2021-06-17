@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Implementation\\OnlineDeliveryProject.Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Application\\OnlineDeliveryProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Application\\OnlineDeliveryProject.Application.csproj",
+        "projectName": "OnlineDeliveryProject.Application",
+        "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Application\\OnlineDeliveryProject.Application.csproj",
+        "packagesPath": "C:\\Users\\i.lekic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i.lekic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.DataAccess\\OnlineDeliveryProject.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.DataAccess\\OnlineDeliveryProject.DataAccess.csproj",
+        "projectName": "OnlineDeliveryProject.DataAccess",
+        "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.DataAccess\\OnlineDeliveryProject.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\i.lekic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i.lekic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Implementation\\OnlineDeliveryProject.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Implementation\\OnlineDeliveryProject.Implementation.csproj",
+        "projectName": "OnlineDeliveryProject.Implementation",
+        "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Implementation\\OnlineDeliveryProject.Implementation.csproj",
+        "packagesPath": "C:\\Users\\i.lekic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i.lekic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Application\\OnlineDeliveryProject.Application.csproj": {
+                "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.Application\\OnlineDeliveryProject.Application.csproj"
+              },
+              "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.DataAccess\\OnlineDeliveryProject.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject.DataAccess\\OnlineDeliveryProject.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj",
+        "projectName": "OnlineDeliveryProject.Domain",
+        "projectPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\OnlineDeliveryProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\i.lekic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\i.lekic\\source\\repos\\OnlineDeliveryProject\\OnlineDeliveryProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\i.lekic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

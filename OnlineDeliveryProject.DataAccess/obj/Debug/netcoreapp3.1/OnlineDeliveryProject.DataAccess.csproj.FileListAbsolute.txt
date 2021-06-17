@@ -1,0 +1,15 @@
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.deps.json
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.dll
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.pdb
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Domain.dll
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Domain.pdb
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.csprojAssemblyReference.cache
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.AssemblyInfoInputs.cache
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.AssemblyInfo.cs
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.csproj.CopyComplete
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.dll
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.pdb
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.runtimeconfig.json
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.runtimeconfig.dev.json
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.DataAccess\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.DataAccess.genruntimeconfig.cache

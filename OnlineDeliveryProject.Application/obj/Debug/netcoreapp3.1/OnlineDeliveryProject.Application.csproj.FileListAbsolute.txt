@@ -1,0 +1,12 @@
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.csprojAssemblyReference.cache
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.AssemblyInfoInputs.cache
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.AssemblyInfo.cs
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.deps.json
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.dll
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.pdb
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Domain.dll
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\bin\Debug\netcoreapp3.1\OnlineDeliveryProject.Domain.pdb
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.csproj.CopyComplete
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.dll
+C:\Users\i.lekic\source\repos\OnlineDeliveryProject\OnlineDeliveryProject.Application\obj\Debug\netcoreapp3.1\OnlineDeliveryProject.Application.pdb
